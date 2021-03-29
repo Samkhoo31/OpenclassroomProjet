@@ -1,2 +1,0 @@
-# OpenclassroomProjet
-Projet2
